@@ -1,0 +1,16 @@
+test_apartamento_1_quarto_sem_criancas (test_rentsmart.TestRentSmart.test_apartamento_1_quarto_sem_criancas) ... ok
+test_apartamento_2_quartos_garagem_sem_criancas (test_rentsmart.TestRentSmart.test_apartamento_2_quartos_garagem_sem_criancas) ... ok
+test_apartamento_com_criancas_sem_desconto (test_rentsmart.TestRentSmart.test_apartamento_com_criancas_sem_desconto) ... ok
+test_casa_1_quarto (test_rentsmart.TestRentSmart.test_casa_1_quarto) ... ok
+test_casa_2_quartos_garagem (test_rentsmart.TestRentSmart.test_casa_2_quartos_garagem) ... ok
+test_csv_12_meses (test_rentsmart.TestRentSmart.test_csv_12_meses) ... ok
+test_estudio_duas_vagas (test_rentsmart.TestRentSmart.test_estudio_duas_vagas) ... ok
+test_estudio_sem_vagas (test_rentsmart.TestRentSmart.test_estudio_sem_vagas) ... ok
+test_estudio_uma_vaga_invalida (test_rentsmart.TestRentSmart.test_estudio_uma_vaga_invalida) ... ok
+test_estudio_vaga_adicional (test_rentsmart.TestRentSmart.test_estudio_vaga_adicional) ... ok
+test_parcelas_invalidas (test_rentsmart.TestRentSmart.test_parcelas_invalidas) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.002s
+
+OK
